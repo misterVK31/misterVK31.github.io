@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vamsikrishna1.com/sitemap.xml
